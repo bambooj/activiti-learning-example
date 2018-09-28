@@ -1,1 +1,1 @@
-# learning-activiti
+# activiti-learning-example
